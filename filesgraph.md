@@ -1,7 +1,7 @@
 # 2022
 ## July
-There were `3` files created in this month.
+There were `4` files created in this month.
 ## Stats
-There were `3` files created in this year.
+There were `4` files created in this year.
 # Stats
-There were `3` files created so far.
+There were `4` files created so far.
