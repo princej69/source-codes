@@ -1,3 +1,3 @@
 # 2022
 ## July
-There were `1` file created in this month.
+There were `2` files created in this month.
